@@ -26,12 +26,4 @@ A web scraping tool to fetch product data from Amazon (name, price, rating, revi
 - pip (or npm)  
 - (If using database) MySQL / MongoDB setup  
 
-### Installation
 
-```bash
-git clone https://github.com/yourusername/amazon-product-scraper.git
-cd amazon-product-scraper
-# if Python
-pip install -r requirements.txt
-# if Node
-npm install
